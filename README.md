@@ -1,4 +1,3 @@
-```markdown
 # ⚡ Gemini 3 Sentiment Engine
 
 [![Python](https://img.shields.io/badge/Python-3.14-blue.svg)](https://python.org)
@@ -162,5 +161,6 @@ Pull requests welcome. Please ensure:
 - Commit messages are descriptive
 
 ---
+
 
 
