@@ -29,28 +29,23 @@ A high-performance sentiment analysis agent that transforms messy user rants int
 
 ### 1. Installation
 Clone the repo and sync dependencies using `uv`:
-```bash
 
-```
+
+
 git clone [https://github.com/abdullahzafar08/sentiment-analyzer-ai.git](https://github.com/abdullahzafar08/sentiment-analyzer-ai.git)
 cd sentiment-analyzer-ai
 uv sync
-```bash
 
-```
+
 GEMINI_API_KEY=your_actual_api_key_here
-```bash
 
-```
 python main.py
-```
 
-```
 {
   "sentiment": "Negative",
   "score": 7,
   "summary": "The user is confused and frustrated by the temperament of their professors.",
   "reasoning": "Terms like 'mad all the time' and 'idk why' show perceived hostility and a lack of understanding."
 }
-```bash
+
 
