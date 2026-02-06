@@ -158,9 +158,10 @@ Each analysis generates a JSON file with the following structure:
 Pull requests welcome. Please ensure:
 - Code follows existing style conventions
 - All tests pass before submission
-- Commit messages are descriptive
+- Commit messages are descriptive.
 
 ---
+
 
 
 
