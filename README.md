@@ -76,7 +76,7 @@ Launch the interactive web interface:
 streamlit run app.py
 ```
 
-![Streamlit UI](assets/streamlit_ui.png)
+![Streamlit UI](assets/streamlit_ui.PNG)
 
 ### Example Session
 
@@ -178,6 +178,7 @@ Pull requests welcome. Please ensure:
 - Commit messages are descriptive.
 
 ---
+
 
 
 
